@@ -73,8 +73,8 @@ body {
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
-.rodape{
-    background-color: black;
+.rodape{ 
+    background-color:FFD1E3;
     text-align: center;
 }
 
